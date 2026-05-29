@@ -6,15 +6,26 @@ title: Objectifs du projet
 
 # Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+Le projet Otto-MKS consiste à concevoir, assembler et programmer un robot bipède capable de se déplacer et de
+détecter des obstacles. Ce projet pédagogique permet de découvrir plusieurs domaines techniques tels que la
+robotique, l’électronique, l’impression 3D et la programmation embarquée. Le robot Otto est un robot open-source
+et modulable destiné à l’apprentissage de la robotique. Grâce à sa structure personnalisable et à sa
+programmation avec Arduino IDE, il offre de nombreuses possibilités d’amélioration. Dans ce rapport, nous
+présenterons les objectifs du projet, les composants utilisés, les étapes de conception et d’assemblage du robot,
+ainsi que sa programmation et les résultats obtenus.
 
 ## Contexte du Projet
 
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+Le projet Otto-MKS a été réalisé dans le cadre des activités du MakerSpace afin de découvrir la fabrication
+numérique et la robotique.
 
 ## Objectifs du Projet
 
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede.
+- Construire un robot bipède fonctionnel ;
+- Permettre au robot de se déplacer ;
+- Détecter les obstacles ;
+- Découvrir la programmation Arduino ;
+- Utiliser l’impression 3D.
 
 # Existant
 
