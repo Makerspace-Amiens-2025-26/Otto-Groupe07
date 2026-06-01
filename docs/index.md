@@ -20,7 +20,13 @@ Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir tout
 
 ## À propos du Projet
 
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
+Le projet Otto-MKS consiste à concevoir, assembler et programmer un robot bipède capable de se déplacer et de
+détecter des obstacles. Ce projet pédagogique permet de découvrir plusieurs domaines techniques tels que la
+robotique, l’électronique, l’impression 3D et la programmation embarquée. Le robot Otto est un robot open-source
+et modulable destiné à l’apprentissage de la robotique. Grâce à sa structure personnalisable et à sa
+programmation avec Arduino IDE, il offre de nombreuses possibilités d’amélioration. Dans ce rapport, nous
+présenterons les objectifs du projet, les composants utilisés, les étapes de conception et d’assemblage du robot,
+ainsi que sa programmation et les résultats obtenus.
 
 
 ## Poster
