@@ -32,6 +32,7 @@ ainsi que sa programmation et les résultats obtenus.
 
 ## Vidéo
 
-<video src="https://youtube.com/shorts/RJ1rGNm2OOo?feature=share" controls title="Title"  style="width: 100%;"></video>
+[![notre vidéo](https://img.youtube.com/vi/RJ1rGNm2OOo/0.jpg)](https://www.youtube.com/watch?v=RJ1rGNm2OOo)
+
 
 ---
