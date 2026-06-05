@@ -14,8 +14,7 @@ Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir tout
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=12fd72afafcd8473dc1f6373&wvm=v&wvmid=e2e288488b06a898e3d4a900&eid=4666d2f0d00dad948417f062&elementType=ASSEMBLY" frameborder="0"></iframe>
 
-{: .warning }
->Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle.
+
 
 
 ## À propos du Projet
@@ -29,11 +28,7 @@ présenterons les objectifs du projet, les composants utilisés, les étapes de 
 ainsi que sa programmation et les résultats obtenus.
 
 
-## Poster
 
-Ici vous publierez le poster de votre projet.
-
-![Poster projet](images/poster.jpg)
 
 ## Vidéo
 
