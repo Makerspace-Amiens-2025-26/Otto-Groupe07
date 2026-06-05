@@ -32,7 +32,8 @@ ainsi que sa programmation et les résultats obtenus.
 
 ## Vidéo
 
-[![notre vidéo](https://img.youtube.com/vi/RJ1rGNm2OOo/0.jpg)](https://www.youtube.com/watch?v=RJ1rGNm2OOo)
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/RJ1rGNm2OOo" title="Vidéo du projet Otto-MKS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ---
