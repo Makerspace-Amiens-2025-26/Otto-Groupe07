@@ -32,6 +32,6 @@ ainsi que sa programmation et les résultats obtenus.
 
 ## Vidéo
 
-<video src="images/ottolympiade.mp4" controls title="Title"  style="width: 100%;"></video>
+<video src="https://youtube.com/shorts/RJ1rGNm2OOo?feature=share" controls title="Title"  style="width: 100%;"></video>
 
 ---
